@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            <h1>ALEX MORGAN - PROFILE</h1>
+        </title>
+    </head>
+    <body>
+        <h1>Alex Morgan</h1>
+        <p>Alex is a good person and he is eligible for professor</p>
+        <br>
+        <hr>
+        <p><i> he is a listener</i></p>
+        <p><b>he loves gardening</b></p>
+        <u>he read stories</u><br>
+        <em>he read stories</em><br>
+        <strong>he read stories</strong><br>
+        <ol>
+            <li>reading</li>
+            <li>cooking
+            </li>
+            <li>playing</li>
+        </ol>
+
+        <ul>
+            <li>reader</li>
+            <li>chef
+            </li>
+            <li>best teacher</li>
+        </ul>
+        <a href="https://alexmorganblog.com.">link</a>
+        <img src="vehi.jpg">  
+        
+        <table border=1>
+            <tr>
+                <td>skils</td> <td>proficiency level</td>
+            </tr>
+
+            <tr>
+                <td>html</td><td>advanced</td>
+            </tr>
+            <tr>
+            <td>css</td> <td>advanced</td>
+            </tr>
+        </table></body>
+</html>
